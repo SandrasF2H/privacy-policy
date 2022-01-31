@@ -111,10 +111,6 @@ We do not knowingly solicit data from or market to children under 16 years of ag
 8. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  You may review, change, or terminate your account at any time.
- 
-If you are a resident in the EEA or UK and you believe we are unlawfully processing your personal information, you also have the right to complain to your local data protection supervisory authority. You can find their contact details here: https://ec.europa.eu/justice/data-protection/bodies/authorities/index_en.htm.
-
-If you are a resident in Switzerland, the contact details for the data protection authorities are available here: https://www.edoeb.admin.ch/edoeb/en/home.html.
 
 If you have questions or comments about your privacy rights, you may email us at sandrasframtohome@gmail.com.
 
