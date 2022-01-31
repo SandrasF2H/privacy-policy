@@ -1,6 +1,6 @@
-#PRIVACY NOTICE
+PRIVACY NOTICE
 
-##Last updated January 31, 2022
+Last updated January 31, 2022
 
 Thank you for choosing to be part of our community at Sandra's Farm To Home ("Company," "we," "us," or "our"). We are committed to protecting your personal information and your right to privacy. If you have any questions or concerns about this privacy notice or our practices with regard to your personal information, please contact us at sandrasframtohome@gmail.com.
 
@@ -14,7 +14,7 @@ The purpose of this privacy notice is to explain to you in the clearest way poss
 
 Please read this privacy notice carefully, as it will help you understand what we do with the information that we collect.
 
-##1. WHAT INFORMATION DO WE COLLECT?
+1. WHAT INFORMATION DO WE COLLECT?
 
 Personal information you disclose to us
 
@@ -40,7 +40,7 @@ If you use our App, we also collect the following information:
 Mobile Device Access. We may request access or permission to certain features from your mobile device, including your mobile device's camera, and other features. If you wish to change our access or permissions, you may do so in your device's settings.
 This information is primarily needed to maintain the security and operation of our App, for troubleshooting and for our internal analytics and reporting purposes.
 
-#2. HOW DO WE USE YOUR INFORMATION?
+2. HOW DO WE USE YOUR INFORMATION?
 
 In Short:  We process your information for purposes based on legitimate business interests, the fulfillment of our contract with you, compliance with our legal obligations, and/or your consent.
 
@@ -65,7 +65,7 @@ To deliver and facilitate delivery of services to the user. We may use your info
 
 To respond to user inquiries/offer support to users. We may use your information to respond to your inquiries and solve any potential issues you might have with the use of our Services.
 
-#3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
+3. WILL YOUR INFORMATION BE SHARED WITH ANYONE?
 
 In Short:  We only share information with your consent, to comply with laws, to provide you with services, to protect your rights, or to fulfill business obligations.
 
@@ -80,7 +80,7 @@ Business Transfers. We may share or transfer your information in connection with
 Business Partners. We may share your information with our business partners to offer you certain products, services or promotions.
 Offer Wall. Our App may display a third-party hosted "offer wall." Such an offer wall allows third-party advertisers to offer virtual currency, gifts, or other items to users in return for the acceptance and completion of an advertisement offer. Such an offer wall may appear in our App and be displayed to you based on certain data, such as your geographic area or demographic information. When you click on an offer wall, you will be brought to an external website belonging to other persons and will leave our App. A unique identifier, such as your user ID, will be shared with the offer wall provider in order to prevent fraud and properly credit your account with the relevant reward. Please note that we do not control third-party websites and have no responsibility in relation to the content of such websites. The inclusion of a link towards a third-party website does not imply an endorsement by us of such website. Accordingly, we do not make any warranty regarding such third-party websites and we will not be liable for any loss or damage caused by the use of such websites. In addition, when you access any third-party website, please understand that your rights while accessing and using those websites will be governed by the privacy notice and terms of service relating to the use of those websites.
 
-#4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?     
+4. HOW DO WE HANDLE YOUR SOCIAL LOGINS?     
 
 In Short:  If you choose to register or log in to our services using a social media account, we may have access to certain information about you.
 
@@ -88,7 +88,7 @@ Our App offers you the ability to register and login using your third-party soci
 
 We will use the information we receive only for the purposes that are described in this privacy notice or that are otherwise made clear to you on the relevant App. Please note that we do not control, and are not responsible for, other uses of your personal information by your third-party social media provider. We recommend that you review their privacy notice to understand how they collect, use and share your personal information, and how you can set your privacy preferences on their sites and apps.
 
-#5. HOW LONG DO WE KEEP YOUR INFORMATION?
+5. HOW LONG DO WE KEEP YOUR INFORMATION?
 
 In Short:  We keep your information for as long as necessary to fulfill the purposes outlined in this privacy notice unless otherwise required by law.
 
@@ -96,19 +96,19 @@ We will only keep your personal information for as long as it is necessary for t
 
 When we have no ongoing legitimate business need to process your personal information, we will either delete or anonymize such information, or, if this is not possible (for example, because your personal information has been stored in backup archives), then we will securely store your personal information and isolate it from any further processing until deletion is possible.
 
-#6. HOW DO WE KEEP YOUR INFORMATION SAFE?
+6. HOW DO WE KEEP YOUR INFORMATION SAFE?
 
 In Short:  We aim to protect your personal information through a system of organizational and technical security measures.
 
 We have implemented appropriate technical and organizational security measures designed to protect the security of any personal information we process. However, despite our safeguards and efforts to secure your information, no electronic transmission over the Internet or information storage technology can be guaranteed to be 100% secure, so we cannot promise or guarantee that hackers, cybercriminals, or other unauthorized third parties will not be able to defeat our security, and improperly collect, access, steal, or modify your information. Although we will do our best to protect your personal information, transmission of personal information to and from our App is at your own risk. You should only access the App within a secure environment.
 
-#7. DO WE COLLECT INFORMATION FROM MINORS?
+7. DO WE COLLECT INFORMATION FROM MINORS?
 
 In Short:  We do not knowingly collect data from or market to children under 16 years of age.
 
 We do not knowingly solicit data from or market to children under 16 years of age. By using the App, you represent that you are at least 16 or that you are the parent or guardian of such a dependent’s use of the App. If we learn that personal information from users less than 16 years of age has been collected, we will deactivate the account and take reasonable measures to promptly delete such data from our records. If you become aware of any data we may have collected from children under age 16, please contact us at sandrasframtohome@gmail.com.
 
-#8. WHAT ARE YOUR PRIVACY RIGHTS?
+8. WHAT ARE YOUR PRIVACY RIGHTS?
 
 In Short:  You may review, change, or terminate your account at any time.
  
@@ -118,7 +118,7 @@ If you are a resident in Switzerland, the contact details for the data protectio
 
 If you have questions or comments about your privacy rights, you may email us at sandrasframtohome@gmail.com.
 
-#Account Information
+Account Information
 
 If you would at any time like to review or change the information in your account or terminate your account, you can:
 Log in to your account settings and update your user account.
@@ -128,11 +128,11 @@ Upon your request to terminate your account, we will deactivate or delete your a
 Opting out of email marketing: You can unsubscribe from our marketing email list at any time by clicking on the unsubscribe link in the emails that we send or by contacting us using the details provided below. You will then be removed from the marketing email list — however, we may still communicate with you, for example to send you service-related emails that are necessary for the administration and use of your account, to respond to service requests, or for other non-marketing purposes. To otherwise opt-out, you may:
 Contact us using the contact information provided.
 
-#9. CONTROLS FOR DO-NOT-TRACK FEATURES
+9. CONTROLS FOR DO-NOT-TRACK FEATURES
 
 Most web browsers and some mobile operating systems and mobile applications include a Do-Not-Track ("DNT") feature or setting you can activate to signal your privacy preference not to have data about your online browsing activities monitored and collected. At this stage no uniform technology standard for recognizing and implementing DNT signals has been finalized. As such, we do not currently respond to DNT browser signals or any other mechanism that automatically communicates your choice not to be tracked online. If a standard for online tracking is adopted that we must follow in the future, we will inform you about that practice in a revised version of this privacy notice. 
 
-#10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
+10. DO CALIFORNIA RESIDENTS HAVE SPECIFIC PRIVACY RIGHTS?
 
 In Short:  Yes, if you are a resident of California, you are granted specific rights regarding access to your personal information.
 
@@ -140,13 +140,13 @@ California Civil Code Section 1798.83, also known as the "Shine The Light" law, 
 
 If you are under 18 years of age, reside in California, and have a registered account with the App, you have the right to request removal of unwanted data that you publicly post on the App. To request removal of such data, please contact us using the contact information provided below, and include the email address associated with your account and a statement that you reside in California. We will make sure the data is not publicly displayed on the App, but please be aware that the data may not be completely or comprehensively removed from all our systems (e.g. backups, etc.).
 
-#11. DO WE MAKE UPDATES TO THIS NOTICE?     
+11. DO WE MAKE UPDATES TO THIS NOTICE?     
 
 In Short:  Yes, we will update this notice as necessary to stay compliant with relevant laws.
 
 We may update this privacy notice from time to time. The updated version will be indicated by an updated "Revised" date and the updated version will be effective as soon as it is accessible. If we make material changes to this privacy notice, we may notify you either by prominently posting a notice of such changes or by directly sending you a notification. We encourage you to review this privacy notice frequently to be informed of how we are protecting your information.
 
-#12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
+12. HOW CAN YOU CONTACT US ABOUT THIS NOTICE?     
 
 If you have questions or comments about this notice, you may email us at sandrasframtohome@gmail.com or by post to:
 
@@ -156,7 +156,7 @@ Angeripalayam road, Gandhi nagar post
 Tiruppur, Tamilnadu 641603
 India
 
-#13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
+13. HOW CAN YOU REVIEW, UPDATE, OR DELETE THE DATA WE COLLECT FROM YOU?     
 
 Based on the applicable laws of your country, you may have the right to request access to the personal information we collect from you, change that information, or delete it in some circumstances. To request to review, update, or delete your personal information, please submit a request form by clicking here.
 This privacy policy was created using Termly's Privacy Policy Generator.
